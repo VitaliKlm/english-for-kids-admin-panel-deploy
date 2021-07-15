@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/english-for-kids-admin-panel-deploy/static/css/main.9094cbcb.chunk.css",
+    "main.js": "/english-for-kids-admin-panel-deploy/static/js/main.e290e385.chunk.js",
+    "main.js.map": "/english-for-kids-admin-panel-deploy/static/js/main.e290e385.chunk.js.map",
+    "runtime-main.js": "/english-for-kids-admin-panel-deploy/static/js/runtime-main.98c9cd2d.js",
+    "runtime-main.js.map": "/english-for-kids-admin-panel-deploy/static/js/runtime-main.98c9cd2d.js.map",
+    "static/js/2.e187a22a.chunk.js": "/english-for-kids-admin-panel-deploy/static/js/2.e187a22a.chunk.js",
+    "static/js/2.e187a22a.chunk.js.map": "/english-for-kids-admin-panel-deploy/static/js/2.e187a22a.chunk.js.map",
+    "index.html": "/english-for-kids-admin-panel-deploy/index.html",
+    "static/css/main.9094cbcb.chunk.css.map": "/english-for-kids-admin-panel-deploy/static/css/main.9094cbcb.chunk.css.map",
+    "static/js/2.e187a22a.chunk.js.LICENSE.txt": "/english-for-kids-admin-panel-deploy/static/js/2.e187a22a.chunk.js.LICENSE.txt",
+    "static/media/AdminPage.css": "/english-for-kids-admin-panel-deploy/static/media/close-btn.95b38a53.svg",
+    "static/media/App.css": "/english-for-kids-admin-panel-deploy/static/media/rss.57509a67.svg",
+    "static/media/repeat-audio.8a3e2462.svg": "/english-for-kids-admin-panel-deploy/static/media/repeat-audio.8a3e2462.svg",
+    "static/media/index.css": "/english-for-kids-admin-panel-deploy/static/media/roboto-v27-cyrillic-regular.91f689ac.woff2",
+    "static/media/rotate.38bffe72.svg": "/english-for-kids-admin-panel-deploy/static/media/rotate.38bffe72.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98c9cd2d.js",
+    "static/js/2.e187a22a.chunk.js",
+    "static/css/main.9094cbcb.chunk.css",
+    "static/js/main.e290e385.chunk.js"
+  ]
+}
