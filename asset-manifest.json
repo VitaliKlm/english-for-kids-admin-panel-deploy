@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/english-for-kids-admin-panel-deploy/static/css/main.9094cbcb.chunk.css",
-    "main.js": "/english-for-kids-admin-panel-deploy/static/js/main.e290e385.chunk.js",
-    "main.js.map": "/english-for-kids-admin-panel-deploy/static/js/main.e290e385.chunk.js.map",
+    "main.js": "/english-for-kids-admin-panel-deploy/static/js/main.8908eb3d.chunk.js",
+    "main.js.map": "/english-for-kids-admin-panel-deploy/static/js/main.8908eb3d.chunk.js.map",
     "runtime-main.js": "/english-for-kids-admin-panel-deploy/static/js/runtime-main.98c9cd2d.js",
     "runtime-main.js.map": "/english-for-kids-admin-panel-deploy/static/js/runtime-main.98c9cd2d.js.map",
     "static/js/2.e187a22a.chunk.js": "/english-for-kids-admin-panel-deploy/static/js/2.e187a22a.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.98c9cd2d.js",
     "static/js/2.e187a22a.chunk.js",
     "static/css/main.9094cbcb.chunk.css",
-    "static/js/main.e290e385.chunk.js"
+    "static/js/main.8908eb3d.chunk.js"
   ]
 }
